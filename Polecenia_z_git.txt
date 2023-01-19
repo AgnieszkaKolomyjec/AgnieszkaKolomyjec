@@ -1,0 +1,21 @@
+Hp@DESKTOP-BSVS2CH MINGW64 ~/Desktop/SQL_ćwiczenia (master)
+$ git remote add origin https://github.com/AgnieszkaKolomyjec/AgnieszkaKolomyjec.git
+
+Hp@DESKTOP-BSVS2CH MINGW64 ~/Desktop/SQL_ćwiczenia (master)
+$ git branch -M main
+
+Hp@DESKTOP-BSVS2CH MINGW64 ~/Desktop/SQL_ćwiczenia (main)
+$ git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 1.20 KiB | 411.00 KiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/AgnieszkaKolomyjec/AgnieszkaKolomyjec.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Hp@DESKTOP-BSVS2CH MINGW64 ~/Desktop/SQL_ćwiczenia (main)
+$ git
